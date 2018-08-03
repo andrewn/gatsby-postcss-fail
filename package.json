@@ -1,0 +1,25 @@
+{
+  "name": "postcss-build-failure",
+  "description": "",
+  "version": "1.0.0",
+  "dependencies": {
+    "@babel/runtime": "^7.0.0-beta.54",
+    "classnames": "^2.2.6",
+    "gatsby": "^2.0.0-beta.67",
+    "gatsby-plugin-postcss": "^1.0.0",
+    "react": "^16.4.1",
+    "react-dom": "^16.4.1"
+  },
+  "keywords": [
+    "gatsby"
+  ],
+  "license": "UNLICENSED",
+  "scripts": {
+    "build": "gatsby build",
+    "develop": "gatsby develop",
+    "serve": "gatsby serve"
+  },
+  "devDependencies": {
+    "prettier": "^1.12.0"
+  }
+}
